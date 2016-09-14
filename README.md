@@ -1,2 +1,2 @@
-# TableViewAutomation
-Experimenting with XCTest and Tableviews
+# UITestDemo
+Tableview UI test
