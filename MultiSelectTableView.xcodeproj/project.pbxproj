@@ -47,7 +47,6 @@
 		280A5A8D17CD29810039B182 /* APLMasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = APLMasterViewController.h; sourceTree = "<group>"; };
 		280A5A8E17CD29810039B182 /* APLMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = APLMasterViewController.m; sourceTree = "<group>"; };
 		280A5A9317CD29810039B182 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		288A79C817CD2FE60003B2C1 /* ReadMe.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = ReadMe.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +82,6 @@
 		280A5A6C17CD29810039B182 = {
 			isa = PBXGroup;
 			children = (
-				288A79C817CD2FE60003B2C1 /* ReadMe.txt */,
 				280A5A7E17CD29810039B182 /* MultiSelectTableView */,
 				014D69781D87C34F00EF86CE /* MultiSelectTableViewUITests */,
 				280A5A7717CD29810039B182 /* Frameworks */,
@@ -425,6 +423,7 @@
 				014D697F1D87C34F00EF86CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		280A5A7017CD29810039B182 /* Build configuration list for PBXProject "MultiSelectTableView" */ = {
 			isa = XCConfigurationList;
